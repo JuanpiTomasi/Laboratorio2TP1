@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\TP1_JTomasi\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\TP1_JTomasi\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\TP1_JTomasi\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\TP1_JTomasi\Entidades\obj\Debug\Entidades.pdb
